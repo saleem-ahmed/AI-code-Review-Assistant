@@ -20,7 +20,7 @@ An AI-powered application for reviewing source code using Large Language Models.
 - OpenAI API
 - Pydantic -->
 
-# 🤖 AI Code Review Assistant
+# AI Code Review Assistant
 
 > An AI-powered code review application that analyzes source code, detects bugs, identifies security issues, suggests performance improvements, and explains code using Large Language Models (LLMs).
 
@@ -31,7 +31,7 @@ An AI-powered application for reviewing source code using Large Language Models.
 
 ---
 
-# 📖 Overview
+# Overview
 
 AI Code Review Assistant is a modern web application built with **Python** and **Streamlit** that helps developers review code intelligently.
 
@@ -41,9 +41,15 @@ The project follows a modular architecture, making it scalable, maintainable, an
 
 ---
 
-# ✨ Features
+# Clips of Project
+![Home Page](assets/1.png)
+![Home Page](assets/2.png)
+![Home Page](assets/3.png)
+![Home Page](assets/4.png)
 
-### 📂 Input Options
+#  Features
+
+###  Input Options
 
 - Upload a single source code file
 - Upload an entire project folder
@@ -51,7 +57,7 @@ The project follows a modular architecture, making it scalable, maintainable, an
 
 ---
 
-### 🔍 Code Analysis
+###  Code Analysis
 
 - Automatic language detection
 - Static code analysis
@@ -62,7 +68,7 @@ The project follows a modular architecture, making it scalable, maintainable, an
 
 ---
 
-### 🤖 AI Review
+### AI Review
 
 Generate detailed reviews including:
 
@@ -76,7 +82,7 @@ Generate detailed reviews including:
 
 ---
 
-### 📊 Reports
+### Reports
 
 Generate professional reports containing:
 
@@ -87,7 +93,7 @@ Generate professional reports containing:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                         User
@@ -127,7 +133,7 @@ Generate professional reports containing:
 
 ---
 
-# 🔄 Application Workflow
+# Application Workflow
 
 ```text
 Start
@@ -171,7 +177,7 @@ Export Report
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 ai-code-review-assistant/
@@ -204,7 +210,7 @@ ai-code-review-assistant/
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 | Category | Technology |
 |----------|------------|
@@ -219,7 +225,7 @@ ai-code-review-assistant/
 
 ---
 
-# 🚀 Installation
+# Installation
 
 Clone the repository:
 
@@ -261,7 +267,7 @@ pip install -r requirements.txt
 
 ---
 
-# ⚙️ Environment Variables
+# Environment Variables
 
 Create a `.env` file in the project root.
 
@@ -275,7 +281,7 @@ GEMINI_API_KEY=your_gemini_key
 
 ---
 
-# ▶️ Running the Application
+# Running the Application
 
 ```bash
 streamlit run app.py
@@ -283,9 +289,9 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-## 🏠 Home Page
+## Home Page
 
 > *(Add screenshot after UI is finalized.)*
 
@@ -295,7 +301,7 @@ assets/screenshots/home.png
 
 ---
 
-## 📂 Upload File
+## Upload File
 
 > *(Coming Soon)*
 
@@ -305,7 +311,7 @@ assets/screenshots/upload-file.png
 
 ---
 
-## 📁 Upload Project
+## Upload Project
 
 > *(Coming Soon)*
 
@@ -315,7 +321,7 @@ assets/screenshots/upload-project.png
 
 ---
 
-## 📝 Paste Code
+## Paste Code
 
 > *(Coming Soon)*
 
@@ -325,7 +331,7 @@ assets/screenshots/paste-code.png
 
 ---
 
-## 🤖 AI Review
+## AI Review
 
 > *(Coming Soon)*
 
@@ -335,7 +341,7 @@ assets/screenshots/review.png
 
 ---
 
-## 📊 Results Dashboard
+## Results Dashboard
 
 > *(Coming Soon)*
 
@@ -345,9 +351,9 @@ assets/screenshots/dashboard.png
 
 ---
 
-# 📈 Development Roadmap
+# Development Roadmap
 
-## ✅ Completed
+## Completed
 
 - Project Structure
 - File Validation
@@ -359,7 +365,7 @@ assets/screenshots/dashboard.png
 
 ---
 
-## 🚧 In Progress
+## In Progress
 
 - AI Review Engine
 - UI Redesign
@@ -367,7 +373,7 @@ assets/screenshots/dashboard.png
 
 ---
 
-## 🔜 Planned
+## Planned
 
 - OpenAI Integration
 - Gemini Integration
@@ -381,7 +387,7 @@ assets/screenshots/dashboard.png
 
 ---
 
-# 🧪 Testing
+# Testing
 
 Run the test suite:
 
@@ -391,7 +397,7 @@ pytest
 
 ---
 
-# 🔒 Security
+#  Security
 
 This project follows several security best practices:
 
@@ -404,7 +410,7 @@ This project follows several security best practices:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -413,18 +419,3 @@ Contributions are welcome.
 3. Commit your changes.
 4. Open a Pull Request.
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-**Ahmed Saleem**
-
-AI Engineer | Frontend Developer | GIS Enthusiast
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
